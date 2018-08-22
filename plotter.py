@@ -1,4 +1,4 @@
-from dirty import get_pickle
+from download import get_pickle
 import plotly.offline as py
 import plotly.graph_objs as go
 
