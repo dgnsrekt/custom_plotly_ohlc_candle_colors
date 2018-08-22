@@ -1,1 +1,2 @@
 *.html
+.pytest_cache
